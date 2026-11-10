@@ -4,6 +4,8 @@
 #include <iomanip>
 using namespace std;
 
+\\ evalution 2 
+
 int main()
 {
     ifstream file("food_data.csv");
