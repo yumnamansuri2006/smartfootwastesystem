@@ -1,0 +1,51 @@
+================================
+ SMART FOOD WASTE SYSTEM
+================================
+
+DATA ANALYSIS
+Total Days: 10
+Total Prepared: 1450.00 kg
+Total Used: 1120.00 kg
+Total Waste: 330.00 kg
+Average Waste: 33.00 kg
+Waste Percentage: 22.76%
+
+NEXT DAY PREDICTION
+Enter planned food: 140
+Enter expected used food: 100
+
+Nearest 3 records:
+Record 1 Waste: 30.00 kg
+Record 2 Waste: 40.00 kg
+Record 3 Waste: 20.00 kg
+
+PREDICTION RESULT
+Predicted Food Waste: 30.00 kg
+
+WASTE CATEGORY
+Medium Waste
+
+DONATION SUGGESTION
+Potential food surplus identified.
+Check food safety and donate suitable surplus food.
+
+================================
+ANALYSIS COMPLETED SUCCESSFULLY
+================================
+
+
+
+
+PS C:\Users\anasm\OneDrive\smartfootwastesystem\Evaluation_3_version_3> py ml_model/ml_model_1.py
+FOOD WASTE ML MODEL
+-------------------
+Algorithm: Linear Regression
+Training Records: 10
+MAE: 4.29
+RMSE: 4.86
+
+Enter next day's prepared food quantity: 150
+Predicted Food Waste: 34.19
+
+Test results saved successfully!
+Trained model details saved successfully!
